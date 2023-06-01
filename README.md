@@ -1,14 +1,5 @@
 # spaceship-titanic
-<head>
-  <title>Spaceship Titanic Repository</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
 
-p {
-  margin-bottom: 15px;
-}
   </style>
 </head>
 <body>
