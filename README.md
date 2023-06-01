@@ -1,6 +1,3 @@
-# spaceship-titanic
-
-  </style>
 </head>
 <body>
   <h1>Spaceship Titanic Repository</h1>
